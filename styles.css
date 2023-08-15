@@ -34,7 +34,7 @@ nav {
 }
 
 li {
-    color: dodgerblue;
+    color: white;
     list-style: none;
     display: inline-block;
     font-size: 25px;
@@ -43,7 +43,7 @@ li {
 }
 
 li:hover {
-    color: dodgerblue;
+    color: blue;
     transition: 0.5s;
 }
 
