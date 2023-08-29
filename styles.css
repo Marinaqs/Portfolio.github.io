@@ -213,17 +213,6 @@ footer p {
     height: 50px;
     width: 50px;
     cursor: pointer;
-}
-
-.Github a {
-    background-color: gray;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 50px;
-    width: 50px;
-    cursor: pointer;
 }    
 
 .social a:hover {
